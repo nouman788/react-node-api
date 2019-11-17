@@ -19,8 +19,7 @@ npm install
 
 ## Start the server
 
-```
-npm start
+npm run dev
 ```
 
 The default URL is: *http://localhost:8000*
